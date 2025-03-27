@@ -1,0 +1,22 @@
+.dropdown-menu.show {
+    display: block;
+    margin-left: -85px;
+}
+/* responsive */ 
+@media (max-width: 768px) {
+    .navbar-nav {
+        margin-left: 0;
+    }
+    
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+/* text color fd4169 and a tag border bottoom  */
+#navbarNav .navbar-nav > li:hover::before {
+
+
+
+}
