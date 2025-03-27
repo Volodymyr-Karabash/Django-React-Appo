@@ -1,0 +1,10 @@
+.topbar{
+    background-color: #ad40b1;
+    color: #fff;
+  }
+  /* responsive topbar */
+@media (max-width: 768px){
+  .topbar {
+      flex-direction: column;    
+  }
+}
