@@ -6,7 +6,7 @@ To run the project, you need to have Node.js and MongoDB installed on your machi
 
 1. Clone the repository
 ```
-git clone https://github.com/Frozen55Git/Hospitality-Business.git
+git clone https://github.com/Volodymyr-Karabash/Django-React-Appo.git
 ```
 
 2. Go to the project directory
